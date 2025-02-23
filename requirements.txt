@@ -1,1 +1,4 @@
+datasketch==1.6.5
+numpy==2.2.3
 pyprobables==0.6.1
+scipy==1.15.2
